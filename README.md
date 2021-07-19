@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JalenMcG
 - 👀 I’m interested in using Python for Data Science. 
-- 🌱 I’m currently learning SciPy.
+- 🌱 I’m currently learning SciPy & Scikit-Learn.
 - 📫 You can reach me on twitter @JalenMcG. 
 
 <!---
